@@ -9,3 +9,7 @@
 
 # Get Support
 > Join The Support Guild [Here](https://discord.gg/3cnwEdR)
+
+
+---
+> MIT LICENCE
